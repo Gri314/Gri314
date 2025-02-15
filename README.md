@@ -1,7 +1,7 @@
 @Gri314
 
-shirleyje@jacks.sfasu.edu
+eshirley2000@gmail.com
 
-Mathematics Major @ Stephen F. Austin State University
+Masters in Math/Stats SFASU
 
-Novice Vpython & Python, for Mathy Purposes
+For mathematics/data science purposes.
