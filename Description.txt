@@ -1,0 +1,5 @@
+Novice code from college. This program was used to test the values of a challenge problem I was assigned. 
+
+During the exploration phase of the problem-solving process, I was interested in rapidly testing new ideas that might aid the "research" process. 
+
+Though a closed-form solution was found, it was difficult to explain clearly. I leaned heavily on visuals/animations in the presentation process.
